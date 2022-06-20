@@ -1,0 +1,11 @@
+{
+    "firstname": "John.D",
+    "lastname": "martin",
+    "totalprice": 1123,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2022-06-20",
+        "checkout": "2022-06-26"
+    },
+    "additionalneeds": "Breakfast,lunch,dinner"
+}

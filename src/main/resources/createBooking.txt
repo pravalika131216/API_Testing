@@ -1,0 +1,6 @@
+{
+    "firstname" : "Pravalika.",
+    "lastname" : "Roy",
+    "totalprice" : 1345
+    
+}

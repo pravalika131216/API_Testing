@@ -1,0 +1,6 @@
+{
+    "name":"Pravalika.S",
+    "email":"Pravalika@gmail.com",
+    "gender":"female",
+    "status":"inactive"
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Test.VerifyCover"/>
+      <class name="Test.VerifyPostMethod"/>
+      <class name="Test.VerifySwaggerPost"/>
+      <class name="Test.VerifySwaggerPatch"/>
+      <class name="Test.VerifySwagger"/>
+      <class name="Test.SwaggerDelete"/>
+      <class name="Test.VerifySwaggerPut"/>
+      <class name="Test.VerifyDeletemethod"/>
+      <class name="Test.Verifyputmethod"/>
+      <class name="Test.VerifySwaggerget"/>
+      <class name="Test.Verifygetmethod"/>
+      <class name="Test.VerifyPatchmethod"/>
+      <class name="Test.VerifySUsers"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
